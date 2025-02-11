@@ -1,0 +1,4 @@
+[core]
+    remote = testbucket
+['remote "testbucket"']
+    url = ../testData
