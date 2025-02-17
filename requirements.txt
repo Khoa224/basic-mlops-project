@@ -1,0 +1,11 @@
+fastapi==0.115.8
+imbalanced_learn==0.12.4
+joblib==1.4.2
+mlflow==2.20.1
+mlflow_skinny==2.20.1
+numpy==1.26.4
+pandas==2.2.3
+pydantic==2.10.6
+PyYAML==6.0.2
+scikit_learn==1.6.1
+uvicorn==0.30.1

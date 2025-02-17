@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739243172850
+current_stage: None
+description: null
+last_updated_timestamp: 1739243172850
+name: insurance_model
+run_id: 7052a615bc5d43d3b96a41e79d61890f
+run_link: null
+source: file:///E:/IDE/PyCharm/basic-mlops-project/mlruns/518008842129886477/7052a615bc5d43d3b96a41e79d61890f/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///E:/IDE/PyCharm/basic-mlops-project/mlruns/518008842129886477/7052a615bc5d43d3b96a41e79d61890f/artifacts/model
+user_id: null
+version: 3

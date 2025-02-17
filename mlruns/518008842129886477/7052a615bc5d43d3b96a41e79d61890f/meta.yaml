@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/IDE/PyCharm/basic-mlops-project/mlruns/518008842129886477/7052a615bc5d43d3b96a41e79d61890f/artifacts
+end_time: 1739243172885
+entry_point_name: ''
+experiment_id: '518008842129886477'
+lifecycle_stage: active
+run_id: 7052a615bc5d43d3b96a41e79d61890f
+run_name: clumsy-ram-997
+run_uuid: 7052a615bc5d43d3b96a41e79d61890f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739243149617
+status: 3
+tags: []
+user_id: Admin
