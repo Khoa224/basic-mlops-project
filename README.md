@@ -30,7 +30,7 @@ Start FastAPI application
 uvicorn app:app --reload
 ```
 
-###6. Docker
+### 6. Docker
 Build the docker image
 ```bash
 docker build -t insurance-prediction .
@@ -39,7 +39,7 @@ Run the container
 ```bash
 docker run -d -p 80:80 insurance-prediction
 ```
-###7. Monitor the model
+### 7. Monitor the model
 Using Evidently AI to monitor the model for data drift and degradation
 ```bash
 python monitor.py
